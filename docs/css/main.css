@@ -13,6 +13,11 @@ body {
 	background: -webkit-linear-gradient(top left, #F8D353, #FF5C5A);
 	background: -moz-linear-gradient(top left, #F8D353, #FF5C5A);
 	background: linear-gradient(top left, #F8D353, #FF5C5A);
+	
+	background: rgba(230, 75, 200, 1.0);
+    background: -webkit-linear-gradient(top left, rgba(230, 75, 200, 1.0), rgba(9, 219, 238, 1.0));
+    background: -moz-linear-gradient(top left, rgba(230, 75, 200, 1.0), rgba(9, 219, 238, 1.0));
+    background: linear-gradient(top left, rgba(230, 75, 200, 1.0), rgba(9, 219, 238, 1.0));
 
 /*	background: #B0D09C;
 	background: -webkit-linear-gradient(top left, #B0D09C, #4B8244);
